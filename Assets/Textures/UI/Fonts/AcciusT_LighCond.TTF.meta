@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b2b0a58cd89c75f4992b8081dad8ae00
+timeCreated: 1524220972
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AcciusTLigCon
+  fontNames:
+  - AcciusTLigCon
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

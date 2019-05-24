@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 8beb96f13ee07a94db7b14f1fcd61207
+timeCreated: 1525878767
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AcciusTMedCon
+  fontNames:
+  - AcciusTMedCon
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 291f59b4977114640bd2a04882a66c62, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

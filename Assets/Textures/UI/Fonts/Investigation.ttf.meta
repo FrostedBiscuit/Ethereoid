@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2a3ee39d6d8bdc84c9ff35f36dc5b3f4
+timeCreated: 1524220972
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Investigation
+  fontNames:
+  - Investigation
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
